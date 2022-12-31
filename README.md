@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakq63&label=Profile%20views&color=0e75b6&style=flat" alt="deepakq63" /> </p>
 
 
-<img aling="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bgv4bze3ewq6gde2h5kc2ds6jv7bf5ppgo2a6hyn&rid=giphy.gif&ct=g">
 <p align="left">
 <a href="https://linkedin.com/in/deepak-patel-8331b824a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-patel-8331b824a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/minato09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/minato09/" height="30" width="40" /></a>
